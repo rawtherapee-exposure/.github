@@ -1,5 +1,3 @@
-Apply a profile to one frame before you queue a whole folder. Keep the card until that JPEG opens. This does not remove a watermark from a picture you do not own. Queue a single frame before a whole folder. Open the JPEG you exported. The raw is still there if the JPEG is wrong.
-
 # RawTherapee - Develop a Photo You Took
 
 ![RawTherapee with one raw frame the user shot and an export name ready](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwFhKAiUOcox2diHnIVloQ2mLhlvnqWAYXvryAqwafrz6bQes_R2f3qC4&s=10)
